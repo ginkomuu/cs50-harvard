@@ -104,11 +104,11 @@ SQL queries to answer questions about a Spotify database.
 
 ## WEEK 7 - SQL - movies
 
-Write SQL queries to answer questions about IMDB's movies database.
+SQL queries to answer questions about IMDB's movies database.
 
 ## WEEK 7 - SQL - fiftyville
 
-Write SQL queries to solve a mystery. (Similar to SQL City.)
+SQL queries to solve a mystery. (Similar to SQL City.)
 
 ## WEEK 8 - trivia
 
